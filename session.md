@@ -1,6 +1,8 @@
 # Lakeside Medical Group (LMG): research session
 
-**Ajijic, Jalisco · October 2, 2026 · Hermes Agent (Nous Research)**
+**Lou Quillio** · San Antonio Tlayacapan, Jalisco · October 2, 2026
+
+Compiled with Hermes Agent (Nous Research).
 
 Scope: the "assistance-biller" line only, meaning LMG's function as a billing and coordination intermediary between expats' foreign insurance and Mexican providers. Other lines of business are noted but not analyzed.
 
